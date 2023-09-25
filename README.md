@@ -14,9 +14,9 @@
   <img align="right" height="250" width="400" alt="GIF" src="https://github.com/pruthviishere/Readme/blob/master/GIF/image.gif">
 </a>
 
-- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Data Science and Android Development**
+- 🔭 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚠𝚘𝚛𝚔𝚒𝚗𝚐 𝚘𝚗 **Data Science and Web Back-end Development**
 - 🌱 𝙸’𝚖 𝚌𝚞𝚛𝚛𝚎𝚗𝚝𝚕𝚢 𝚕𝚎𝚊𝚛𝚗𝚒𝚗𝚐 **Machine learning ,Data structures & Algorithm**
-- 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛  **Full Time SDE & Internships**
+- 🤔 𝙸’𝚖 𝚕𝚘𝚘𝚔𝚒𝚗𝚐 𝚏𝚘𝚛  **Full Time SDE ,Machine learning Engineer & Internships**
 - 😄 𝙿𝚛𝚘𝚗𝚘𝚞𝚗𝚜 : **He/Him/His**
 - ⚡ Random 𝚏𝚊𝚌𝚝 : **What we know is a drop. What we do not know… is an ocean**
 - 📝 I regulary write articles on [GFG  ](https://auth.geeksforgeeks.org/user/rexcode/profile)
